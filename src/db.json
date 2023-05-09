@@ -1,0 +1,46 @@
+{
+    "books":[
+        {
+            "id": 1,
+            "title": "Suç ve Ceza",
+            "author": "Fyodor Dostoevsky",
+            "image":"https://picsum.photos/201",
+            "year": 1866
+          },
+          {
+            "id": 2,
+            "title": "Sefiller",
+            "author": "Victor Hugo",
+            "image":"https://picsum.photos/202",
+            "year": 1862
+          },
+          {
+            "id": 3,
+            "title": "Don Kişot",
+            "author": "Miguel de Cervantes",
+            "image":"https://picsum.photos/203",
+            "year": 1605
+          },
+          {
+            "id": 4,
+            "title": "1984",
+            "author": "George Orwell",
+            "image":"https://picsum.photos/204",
+            "year": 1949
+          },
+          {
+            "id": 5,
+            "title": "İstanbul ",
+            "author": "Ahmet Ümit",
+            "image":"https://picsum.photos/205",
+            "year": 2005
+          },
+          {
+            "id": 6,
+            "title": "Dracula",
+            "author": "Bram Stoker",
+            "image":"https://picsum.photos/206",
+            "year": 1897
+          }
+    ]
+}

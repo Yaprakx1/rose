@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+
+body{
+  font-family: poppins;
+}
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+
+
+header{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: grey;
+  color: white;
+  padding: 20px;
+}
+a{
+  font-weight: 600;
+  font-size: 20px;
+  text-decoration: none;
+  margin: 10px;
+  color: rgb(193, 33, 137);
+}
+a.active{
+  color: crimson;
+}
+.cards-conteiner{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 50px;
+  padding: 100px;
+}
+.card{
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  cursor: pointer;
+}
+.card:hover{
+  box-shadow: 5px 10px 15px;
+}
+.card img{
+  width: 100%;
+}
+.detail-page{
+  display: grid;
+  place-items: center;
+  height: calc(100vh - 85px);
+
+}
+.book-detail{
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+ max-width: 1000px;
+ display: flex;
+ padding: 50px;
+
+}
+.right{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 30px;
+  padding: 15px;
+}
+.undefined{
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  height: calc(100vh - 105px);
+  justify-content: center;
+  align-items: center;
+  
+  
+}
+.undefined img{
+  height: 400px;
+}
+.undefined h1{
+  color: brown;
+}

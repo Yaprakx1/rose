@@ -1,0 +1,92 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Suç ve Ceza",
+      "author": "Fyodor Dostoevsky",
+      "image": "https://picsum.photos/201",
+      "year": 1866,
+      "description": "Suç ve Ceza, Rus yazar Fyodor Dostoyevski'nin en ünlü romanlarından biridir. Roman, bir genç üniversite öğrencisi olan Raskolnikov'un, yoksulluğundan kurtulmak için bir kadını öldürmesi ve sonrasındaki vicdan azabını anlatır."
+    },
+    {
+      "id": 2,
+      "title": "Sefiller",
+      "author": "Victor Hugo",
+      "image": "https://picsum.photos/202",
+      "year": 1862,
+      "description": "Sefiller, Fransız yazar Victor Hugo'nun en ünlü romanlarından biridir. Roman, Jean Valjean adlı bir hırsızın hayatını, onun peşinde olan müfettiş Javert'in takibini ve Fransız Devrimi'nin sosyal ve siyasi olaylarını anlatır."
+    },
+    {
+      "id": 3,
+      "title": "Don Kişot",
+      "author": "Miguel de Cervantes",
+      "image": "https://picsum.photos/203",
+      "year": 1605,
+      "description": "Don Kişot, İspanyol yazar Miguel de Cervantes'in en ünlü eserlerinden biridir. Roman, soylu bir ailenin üyesi olan Alonso Quixano'nun, kendisini şövalye ilan edip gerçeküstü maceralara atılmasını ve yanındaki sadık hizmetçisi Sancho Panza ile yaşadığı serüvenleri anlatır."
+    },
+    {
+      "id": 4,
+      "title": "1984",
+      "author": "George Orwell",
+      "image": "https://picsum.photos/204",
+      "year": 1949,
+      "description": "1984, İngiliz yazar George Orwell'in distopik romanlarından biridir. Roman, totaliter bir devlet olan Oceania'da yaşayan Winston Smith'in, rejime karşı çıkışını ve sistemin onu nasıl bastırdığını anlatır."
+    },
+    {
+      "id": 5,
+      "title": "İstanbul ",
+      "author": "Ahmet Ümit",
+      "image": "https://picsum.photos/205",
+      "year": 2005,
+      "description": "İstanbul Hatırası, Türk yazar Ahmet Ümit'in romanlarından biridir. Roman, İstanbul'da geçen bir seri cinayeti konu alır ve baş karakter Halil İbrahim Tabakçı'nın olayı çözmeye çalışmasını anlatır."
+    },
+    {
+      "id": 6,
+      "title": "Dracula",
+      "author": "Bram Stoker",
+      "image": "https://picsum.photos/206",
+      "year": "1897",
+      "description":"bram stoker in en sevdiği romandır"
+    },
+      {
+        "id": 7,
+        "title": "Harry Potter ",
+        "author": "J.K. Rowling",
+        "image": "https://picsum.photos/207",
+        "year": 1997,
+        "description": "Harry Potter and the Philosopher's Stone is the first novel in the Harry Potter series written by British author J.K. Rowling. It follows the life of a young orphan boy named Harry Potter who discovers he is a wizard and attends Hogwarts School of Witchcraft and Wizardry."
+      },
+      {
+        "id": 8,
+        "title": "To Kill ",
+        "author": "Harper Lee",
+        "image": "https://picsum.photos/208",
+        "year": 1960,
+        "description": "To Kill a Mockingbird is a novel by Harper Lee published in 1960. The book takes place during the Great Depression in the fictional town of Maycomb, Alabama, and explores the irrationality of adult attitudes towards race and class in the Deep South of the 1930s."
+      },
+      {
+        "id": 9,
+        "title": " the Rye",
+        "author": "J.D. Salinger",
+        "image": "https://picsum.photos/209",
+        "year": 1951,
+        "description": "The Catcher in the Rye is a novel by J.D. Salinger, published in 1951. The story is told by Holden Caulfield, a teenage boy who has been expelled from prep school. The novel explores themes of teenage angst and alienation in 1950s America."
+      },
+      {
+        "id": 10,
+        "title": " Prejudice",
+        "author": "Jane Austen",
+        "image": "https://picsum.photos/210",
+        "year": 1813,
+        "description": "Pride and Prejudice is a novel by Jane Austen, published in 1813. The story follows the main character Elizabeth Bennet as she deals with issues of manners, upbringing, morality, education, and marriage in the society of the landed gentry of early 19th-century England."
+      },
+      {
+        "id": 11,
+        "title": " Dorian Gray",
+        "author": "Oscar Wilde",
+        "image": "https://picsum.photos/211",
+        "year": 1890,
+        "description": "The Picture of Dorian Gray is a novel by Oscar Wilde, published in 1890. The story follows the young, wealthy and handsome Dorian Gray who becomes the subject of a painting by artist Basil Hallward. Dorian sells his soul to remain forever young, while the portrait ages and reflects his sins."
+      }
+    ]
+  }
